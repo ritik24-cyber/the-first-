@@ -1,3 +1,3 @@
 # the-first-
-this is the demo 
-i am going to crete few more 
+This is the demo .
+I  am going to crete few more 
